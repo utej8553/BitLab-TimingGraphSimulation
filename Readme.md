@@ -1,6 +1,6 @@
 ## Sample Output
 
-![Timing Diagram](Screenshot 2026-02-04 204013.jpg)
+![Timing Diagram](image.jpg)
 📟 Verilog → VCD → Web Timing Diagram
 This project provides a full-stack solution to execute a Verilog design and testbench on a server, generate a VCD (Value Change Dump) file, and visualize the results as a timing diagram in a web browser using JavaScript and WaveDrom.
 
